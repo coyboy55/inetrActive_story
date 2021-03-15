@@ -1,0 +1,28 @@
+body {
+  text-align: left;
+}
+.start {
+  background-image: url(https://data.whicdn.com/images/78552206/original.gif);
+}
+.container {
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  border-radius: 7px;
+  font-weight: bold;
+}
+.texting {
+  background-color: rgba(255, 255, 255, 0.7);
+  border: 2px transparent;
+  border-radius: 7px;
+  outline: none;
+  border-color: white;
+  box-shadow: 0 0 20px white;
+  width: 60%;
+  display: inline-block;
+  min-height: 40%;
+  margin: 5%;
+  padding: 0px;
+  font-size: 1.2rem;
+  color: black;
+}
